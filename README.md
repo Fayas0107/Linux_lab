@@ -4,9 +4,6 @@
 - VirtualBox
 - Linux Mint
 - Ubuntu Server
-- SSH
-- NFS
-- LVM
 
 ## Tasks Performed
 - VM setup
