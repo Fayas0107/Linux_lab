@@ -1,16 +1,11 @@
-Ubuntu Server
-     |
-
-     +---- SSH
-     |
-     +---- NFS
-     |
-     +---- LVM
-     |
-     +---- Apache
-     |
-     +---- Users/Groups
-     |
-     +---- Permissions
-     |
-     +---- Networking
+users
+groups
+sudo
+permissions
+chmod
+chown
+umask
+passwd
+password expiry
+systemctl
+journalctl
